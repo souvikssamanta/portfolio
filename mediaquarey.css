@@ -1,0 +1,178 @@
+@media (max-width:600px){
+.class2{
+    width: 110vw;
+}
+.btn_one{
+    font-size: 8vw;
+    opacity: 1;
+    padding-left: 2vw;
+}
+.main{
+    height: 15vw;
+   position: fixed;
+   z-index: 1000;
+}
+.hanger{
+    opacity: 1;
+}
+.main h1{
+   padding-left: 27vw; 
+   font-size: 10vw;
+   padding-top: 1.5vw;
+}
+.navbar{
+    opacity: 0;
+}
+.hero h3,h2{
+    line-height: 10vw;
+    padding-left: 15vw;
+    width: 100%;
+}
+.hero h1{
+font-size: 7vw;
+margin: 3vw;
+padding-left: 1vw;
+width: 100%;
+}
+#photo{
+    position: absolute;
+    bottom:100%;
+    left: 30%;
+    height: 35vw;
+  width: 35vw;
+}
+#photo img{
+  height: 34vw;
+  width: 34vw;
+}
+
+.link{
+    padding-left: 18vw;
+    display: flex;
+    flex-direction: column;
+}
+.download{
+    height: 9vw;
+    width: 33vw;
+    font-size: 4vw;
+  padding-top: 3vw;
+  padding-left: 1vw;
+}
+.social-link{
+    display: none;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-right: 12vw;
+}
+.content{
+    line-height: 8vw;
+    font-size:5vw ;
+    width: 80%;
+   margin: 5vw;
+}
+.content button{
+    width: 18vw;
+    height: 8vw;
+    font-size: 3vw;
+}
+.skill{
+    margin-top: 75vw;
+    margin-left: 19vw;
+}
+.skill ul{
+    padding-left: 5vw;
+}
+.skill ul li{
+    font-size: 5vw;
+}
+.services{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10vw;
+}
+.class{
+    height: 56vw;
+    width: 60vw;
+    margin-top: 4vw;
+    background: #ff004f;
+   
+}
+
+.class h1{
+    font-size: 5vw;
+}
+.class i{
+    font-size: 5vw;
+}
+.text{
+    display: none;
+}
+.class3{
+    display: flex;
+    flex-direction: column;
+    margin-left: 19vw;
+}
+.class4{
+    height: 50vw;
+    width: 50vw;
+    margin-top: 10vw;
+   
+    border: 2px solid wheat;
+    padding-left: 10vw;
+}
+.section5{
+    display: flex;
+    flex-direction: column;
+   
+}
+.contact{
+   margin-left: 16vw; 
+   
+}
+.contact p i{
+    font-size: 4vw;
+}
+.contact p{
+    font-size: 5vw;
+    margin-top: 5vw;
+}
+form input{
+    width: 60vw;
+    height: 10vw;
+    font-size: 3.5vw;
+    margin-top: 2vw;
+}
+form button{
+    margin-top: 5vw;
+    height: 9vw;
+    width: 24vw;
+    font-size: 4vw;
+}
+form p{
+   position: absolute;
+   bottom: 2%;
+   left: 20%;
+    font-size: 5vw;
+  
+   
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
